@@ -1,2 +1,4 @@
 Hello World !
 zsénof
+Bienvenue à la Wild Code School!
+
